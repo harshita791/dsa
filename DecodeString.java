@@ -56,4 +56,7 @@ public class DecodeString {
 /*
     Time: O(n)
     Space: O(n) (can be optimized to O(1) using two variables instead of array)
+
+    https://leetcode.com/problems/decode-ways/description/
+    https://leetcode.com/problems/decode-ways-ii/
  */
